@@ -131,23 +131,21 @@ footer {
     .quotes-pattern {
         top: 80%;
     }
-    /* .curve-pattern {
-       /* width: 85%;
-       position: relative;
-       top: 35px; */
-    } 
+    .sinclair-img {
+        margin-top: 15%;
+    }
     .testi-img {
-       width: 100%;
+       width: 87%;
     }
     .bg-pattern {
         top: -10%;
         right: 0;
-        width: 125%;
+        width: 110%;
     }
     
     .icon {
         right: 40%;
-        bottom: 22%;
+        bottom: 25%;
     }
     
 }
